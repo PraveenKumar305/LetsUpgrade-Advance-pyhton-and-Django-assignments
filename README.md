@@ -1,2 +1,1 @@
-# pyhton-assignment
-day3
+# LetsUpgrade Pyhton-assignment
